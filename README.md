@@ -1,2 +1,2 @@
 # DrComCrackTutorial
-DrCom校园网认证系统验证绕过机制与原理剖析&流程手册
+DrCom校园网认证系统验证绕过机制原理剖析&流程指南
